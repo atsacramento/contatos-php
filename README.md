@@ -1,5 +1,6 @@
 # Projeto CRUD em PHP
-<li>Desenvolvimento de um simples projeto CRUD (agenda de contatos).</li>
+Desenvolvimento de um projeto CRUD (<b>agenda de contatos</b>) passo a passo, da inicialização até o ser colocado no servidor. 
+O sistema web contatos permite listar, cadastrar, incluindo e excluir contatos.
 
 ## Tecnologias
 <li>PHP Básico e PDO</li>
