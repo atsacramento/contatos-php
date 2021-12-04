@@ -140,6 +140,5 @@
           </div>
 
         <?php include_once "_script.php" ?>
-        <script src="" async defer></script>
     </body>
 </html>
