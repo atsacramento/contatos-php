@@ -1,0 +1,40 @@
+label {
+    font-size: 14px;
+}
+button {
+    width: 120px;;
+}
+
+.botoes {
+    padding: 14px;
+}
+.titulo {
+    height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #6959CD;
+    color: #fff;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.titulo-1 {
+    height: 50px;
+    padding: 5px;
+    text-align: right;
+}
+.row {
+   padding-top: 10px;
+}
+.icon {
+    cursor: pointer;
+}
+.icon-vermelho {
+    color: #ff0000;
+}
+.icon-azul {
+    color: #0000ff;
+}
+.icon-verde {
+    color: #008000;
+}
