@@ -16,11 +16,9 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades-heavy_check_mark)
 
-:small_blue_diamond: [Passo a Passo](#passo_a_passo-heavy_check_mark)
-
-:small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas_e_tecnologias_utilizadas-heavy_check_mark)
-
 :small_blue_diamond: [Passo a Passo](#passo-a-passo-heavy_check_mark)
+
+:small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas-e-tecnologias-utilizadas-heavy_check_mark)
 
 <br>
 
