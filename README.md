@@ -12,20 +12,20 @@
 
 ### Tópicos  :heavy_check_mark:
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-heavy_check_mark)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades](#funcionalidades-heavy_check_mark)
 
-:small_blue_diamond: [Passo a Passo](#passo_a_passo)
+:small_blue_diamond: [Passo a Passo](#passo_a_passo-heavy_check_mark)
 
-:small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas_e_tecnologias_utilizadas)
+:small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas_e_tecnologias_utilizadas-heavy_check_mark)
 
 <br>
 
 ### Descrição do projeto :heavy_check_mark: 
 
 ```
-Sistema de cadastramento e controle de  <b>Contatos</b>.
+Sistema de cadastramento e controle de Contatos.
 ```
 <br>
 
@@ -57,7 +57,7 @@ No terminal, clone o projeto:
 git clone https://github.com/atsacramento/contatos-php
 
 Crie no MySql um database
-Execute o aruivo contato.sql que esta dentro da pasta /sql ou importe-o no phpMyAdmin.
+Execute o arquivo contato.sql que esta dentro da pasta /sql e/ou importe-o no phpMyAdmin.
 Edite o arquivo conexao.php e altere usuário/password de acordo com seu database.
 Dê o start do banco mysql e servidor
 Execute a url da aplicação no browser http://<NOME DO SERVIDOR>/<NOME DA APLICAÇÂO>  Ex: http://localhost/contatos
