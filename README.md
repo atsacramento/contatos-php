@@ -20,6 +20,8 @@
 
 :small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas_e_tecnologias_utilizadas-heavy_check_mark)
 
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+
 <br>
 
 ### Descrição do projeto :heavy_check_mark: 
@@ -30,6 +32,7 @@ Sistema de cadastramento e controle de Contatos.
 <br>
 
 ### Funcionalidades :heavy_check_mark:
+
 <table border=0 width="400px">
  <tr>
   <th>Listar</th>
@@ -48,8 +51,9 @@ Sistema de cadastramento e controle de Contatos.
 </table>
 <br>
 
-
+### Como rodar a aplicação :arrow_forward:
 ### Passo a Passo :heavy_check_mark:
+
 
 ```
 No terminal, clone o projeto: 
@@ -60,10 +64,11 @@ Crie no MySql um database
 Execute o arquivo contato.sql que esta dentro da pasta /sql e/ou importe-o no phpMyAdmin.
 Edite o arquivo conexao.php e altere usuário/password de acordo com seu database.
 Dê o start do banco mysql e servidor
-Execute a url da aplicação no browser http://<NOME DO SERVIDOR>/<NOME DA APLICAÇÂO>  Ex: http://localhost/contatos
+Execute a url da aplicação no browser http://<NOME DO SERVIDOR>/<NOME DA APLICAÇÂO>
+ Ex: http://localhost/contatos
 ```
 
-### Técnicas e tecnologias utilizadas :heavy_check_mark:
+### Tecnicas e tecnologias utilizadas :heavy_check_mark:
 
 ```
 PHP puro sem OO e PDO
