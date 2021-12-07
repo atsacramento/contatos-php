@@ -20,7 +20,7 @@
 
 :small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas_e_tecnologias_utilizadas-heavy_check_mark)
 
-:small_blue_diamond: [Passo a Passo](#como-rodar-a-aplicação-heavy_check_mark)
+:small_blue_diamond: [Passo a Passo](#passo-a-passo-heavy_check_mark)
 
 <br>
 
@@ -51,9 +51,7 @@ Sistema de cadastramento e controle de Contatos.
 </table>
 <br>
 
-### Como rodar a aplicação :heavy_check_mark:
 ### Passo a Passo :heavy_check_mark:
-
 
 ```
 No terminal, clone o projeto: 
