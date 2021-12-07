@@ -1,6 +1,10 @@
 <h1>Projeto CRUD em PHP</h1> 
+
+![image](https://user-images.githubusercontent.com/3989232/145018620-06dbfdf0-227b-4226-a3b6-dc5a653eca8a.png)
+
 <br>
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+
+> Status do Projeto: :heavy_check_mark:
 <br>
 <br>
 
@@ -16,46 +20,41 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 <br>
+<br>
+<br>
 
 ### Descrição do projeto 
 
 <p align="justify">
- Sistema de <b>agenda de contatos</b> que permite listar, cadastrar, incluir e excluir contatos.
+:heavy_check_mark: Sistema de cadastramento e controle de  <b>Contatos</b>.
 </p>
 <br>
 
-## Funcionalidades
+### Funcionalidades
+<table border=0 width="400px">
+ <tr>
+  <th>Listar :heavy_check_mark:</th>
+  <th>Incluir :heavy_check_mark:</th>
+  <th>Editar :heavy_check_mark:</th>
+  <th>Excluir :heavy_check_mark:</th>
+  <th>Pesquisar :heavy_check_mark:</th>
+ </tr>
+ <tr>
+  <td></td>
+  <td style="text-align: center"><img src="https://user-images.githubusercontent.com/3989232/145018930-2e069166-c542-4889-849d-8a1dd87d0ef2.png" width=70 height=50></td>
+  <td style="text-align: center"><img src="https://user-images.githubusercontent.com/3989232/145019056-8461d63c-06ad-4d33-956e-9c63b60ba54a.png" width=50 height=50></td>
+  <td style="text-align: center"><img src="https://user-images.githubusercontent.com/3989232/145019103-6b58e6cc-7480-418d-ac19-870ee8fcc576.png" width=50 height=50></td>
+  <td style="text-align: center"><img src="https://user-images.githubusercontent.com/3989232/145019156-78148e28-7edb-4694-aa86-1563675cafe5.png" width=50 height=50></td>
+ </tr>
+</table>
+<br>
 
-:heavy_check_mark: Funcionalidade 1  
-
-:heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
-
-## Layout ou Deploy da Aplicação :dash:
-
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
-... 
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
-
-## Pré-requisitos
-
-:warning: [Node](https://nodejs.org/en/download/)
-
-...
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
-
-## Como rodar a aplicação :arrow_forward:
+### Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/atsacramento/
 ```
 
 
