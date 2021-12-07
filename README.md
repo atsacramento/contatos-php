@@ -5,10 +5,7 @@
 ![image](https://user-images.githubusercontent.com/3989232/145018620-06dbfdf0-227b-4226-a3b6-dc5a653eca8a.png)
 
 <br>
-
-
-<br>
-<br>
+<div id="top"></div>
 
 ### Tópicos  :heavy_check_mark:
 
@@ -27,6 +24,8 @@
 ```
 Sistema de cadastramento e controle de Contatos.
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br>
 
 ### Funcionalidades :heavy_check_mark:
@@ -47,6 +46,7 @@ Sistema de cadastramento e controle de Contatos.
   <td style="text-align: center"><img src="https://user-images.githubusercontent.com/3989232/145019156-78148e28-7edb-4694-aa86-1563675cafe5.png" width=50 height=50></td>
  </tr>
 </table>
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br>
 
 ### Passo a Passo :heavy_check_mark:
@@ -63,6 +63,8 @@ Dê o start do banco mysql e servidor
 Execute a url da aplicação no browser http://<NOME DO SERVIDOR>/<NOME DA APLICAÇÂO>
  Ex: http://localhost/contatos
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br>
 
 ### Tecnicas e tecnologias utilizadas :heavy_check_mark:
 
@@ -74,8 +76,12 @@ Html
 CSS
 MySql 7.x
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br>
 
 ### Desenvolvedor
 
 | [<img src="https://avatars.githubusercontent.com/atsacramento" width=115><br><sub>Alex Sacramento</sub>](https://github.com/atsacramento) |
 | :---: |
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br>
