@@ -19,7 +19,7 @@
 
 <br>
 
-### Descrição do projeto :heavy_check_mark:  (<a href="#top">back to top</a>)
+### Descrição do projeto :heavy_check_mark:
 
 ```
 Sistema de cadastramento e controle de Contatos.
