@@ -2,26 +2,25 @@
 Desenvolvimento de um projeto CRUD (<b>agenda de contatos</b>) passo a passo, da inicialização até o ser colocado no servidor. 
 O sistema web contatos permite listar, cadastrar, incluindo e excluir contatos.
 
-## Tecnologias
-<li>PHP Básico e PDO</li>
-<li>Bootstrap 4</li>
-<li>Javascript</li>
-<li>Html</li>
-<li>CSS</li>
-<li>MySql 7.x</li>
+## Técnicas e tecnologias utilizadas
+- `PHP Básico e PDO`
+- `Bootstrap 4`
+- `Javascript`
+- `Html`
+- `CSS`
+- `MySql 7.x`
 
 ## Funções
-<li>listar, incluir, alterar e excluir.</li>
-
-![image](https://user-images.githubusercontent.com/3989232/144723437-bfcebbb8-93f2-4017-81c6-8752b7335321.png)
-
+- `listar, incluir, alterar e excluir.`
 
 ## Configurações
-<li>Criar no MySql um database</li>
-<li>Executar o aruivo contato.sql dentro da pasta sql ou importar o no phpMyAdmin e criar a tabela.</li>
-<li>Editar o arquivo conexao.php e alterar usuário/password.</li>
+- `Criar no MySql um database`
+- `Executar o aruivo contato.sql dentro da pasta sql ou importar o no phpMyAdmin e criar a tabela.`
+- `Editar o arquivo conexao.php e alterar usuário/password.`
+- `Dar o start do banco mysql e servidor`
+- `Executar a url no browser`
 
-![image](https://user-images.githubusercontent.com/3989232/144723382-ac8d9d59-a480-43aa-9787-c37501cca747.png)
+## Autor
 
-<li>Dar o start do banco mysql e servidor</li>
-<li>Executar a url no browser</li>
+| [<img src="https://avatars.githubusercontent.com/atsacramento" width=115><br><sub>Alex Sacramento</sub>](https://github.com/atsacramento) |
+| :---: |
