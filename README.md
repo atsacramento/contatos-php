@@ -20,7 +20,7 @@
 
 :small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas_e_tecnologias_utilizadas-heavy_check_mark)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-heavy_check_mark)
 
 <br>
 
@@ -51,7 +51,7 @@ Sistema de cadastramento e controle de Contatos.
 </table>
 <br>
 
-### Como rodar a aplicação :arrow_forward:
+### Como rodar a aplicação :heavy_check_mark:
 ### Passo a Passo :heavy_check_mark:
 
 
