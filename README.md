@@ -20,7 +20,7 @@
 
 :small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas_e_tecnologias_utilizadas-heavy_check_mark)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-heavy_check_mark)
+:small_blue_diamond: [Passo a Passo](#como-rodar-a-aplicação-heavy_check_mark)
 
 <br>
 
