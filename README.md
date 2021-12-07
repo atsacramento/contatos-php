@@ -1,43 +1,42 @@
 <h1>Projeto CRUD em PHP</h1> 
 
+> Status do Projeto: :heavy_check_mark:
+
 ![image](https://user-images.githubusercontent.com/3989232/145018620-06dbfdf0-227b-4226-a3b6-dc5a653eca8a.png)
 
 <br>
 
-> Status do Projeto: :heavy_check_mark:
+
 <br>
 <br>
 
-### Tópicos 
+### Tópicos  :heavy_check_mark:
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Passo a Passo](#passo_a_passo)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+:small_blue_diamond: [Técnicas e tecnologias utilizadas](#tecnicas_e_tecnologias_utilizadas)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-<br>
-<br>
 <br>
 
-### Descrição do projeto 
+### Descrição do projeto :heavy_check_mark: 
 
-<p align="justify">
-:heavy_check_mark: Sistema de cadastramento e controle de  <b>Contatos</b>.
-</p>
+```
+Sistema de cadastramento e controle de  <b>Contatos</b>.
+```
 <br>
 
-### Funcionalidades
+### Funcionalidades :heavy_check_mark:
 <table border=0 width="400px">
  <tr>
-  <th>Listar :heavy_check_mark:</th>
-  <th>Incluir :heavy_check_mark:</th>
-  <th>Editar :heavy_check_mark:</th>
-  <th>Excluir :heavy_check_mark:</th>
-  <th>Pesquisar :heavy_check_mark:</th>
+  <th>Listar</th>
+  <th>Incluir</th>
+  <th>Editar</th>
+  <th>Excluir</th>
+  <th>Pesquisar</th>
  </tr>
  <tr>
   <td></td>
@@ -49,34 +48,33 @@
 </table>
 <br>
 
-### Como rodar a aplicação :arrow_forward:
 
+### Passo a Passo :heavy_check_mark:
+
+```
 No terminal, clone o projeto: 
 
+git clone https://github.com/atsacramento/contatos-php
+
+Crie no MySql um database
+Execute o aruivo contato.sql que esta dentro da pasta /sql ou importe-o no phpMyAdmin.
+Edite o arquivo conexao.php e altere usuário/password de acordo com seu database.
+Dê o start do banco mysql e servidor
+Execute a url da aplicação no browser http://<NOME DO SERVIDOR>/<NOME DA APLICAÇÂO>  Ex: http://localhost/contatos
 ```
-git clone https://github.com/atsacramento/
+
+### Técnicas e tecnologias utilizadas :heavy_check_mark:
+
+```
+PHP puro sem OO e PDO
+Bootstrap 4
+Javascript
+Html
+CSS
+MySql 7.x
 ```
 
-
-## Técnicas e tecnologias utilizadas
-- `PHP Básico e PDO`
-- `Bootstrap 4`
-- `Javascript`
-- `Html`
-- `CSS`
-- `MySql 7.x`
-
-## Funções
-- `listar, incluir, alterar e excluir.`
-
-## Configurações
-- `Criar no MySql um database`
-- `Executar o aruivo contato.sql dentro da pasta sql ou importar o no phpMyAdmin e criar a tabela.`
-- `Editar o arquivo conexao.php e alterar usuário/password.`
-- `Dar o start do banco mysql e servidor`
-- `Executar a url no browser`
-
-## Desenvolvedor
+### Desenvolvedor
 
 | [<img src="https://avatars.githubusercontent.com/atsacramento" width=115><br><sub>Alex Sacramento</sub>](https://github.com/atsacramento) |
 | :---: |
